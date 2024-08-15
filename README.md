@@ -1,2 +1,2 @@
 # js-practice-yt
-Javascript Practice Code
+Javascript Practice Code will be in this repo
